@@ -1,0 +1,12 @@
+# Datos pesados: se descargan de Kaggle, no se suben
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
+# Archivos de apoyo personal (no van en la entrega)
+_temporal/
+_paquete.zip
+_paquetes/
