@@ -1,0 +1,51 @@
+{
+  "pca_componentes": 86,
+  "k_elegido": 2,
+  "comparacion_agrupamiento": {
+    "K-Means": {
+      "silhouette (↑)": 0.3608,
+      "davies_bouldin (↓)": 1.9718,
+      "calinski_harabasz (↑)": 5310.497
+    },
+    "GMM": {
+      "silhouette (↑)": 0.0912,
+      "davies_bouldin (↓)": 4.6249,
+      "calinski_harabasz (↑)": 1661.6592
+    }
+  },
+  "kmeans_tasa_fraude_por_grupo": {
+    "0": 13.17,
+    "1": 2.45
+  },
+  "isolation_forest": {
+    "roc_auc": 0.75246918963564,
+    "pr_auc": 0.1190673921102184,
+    "prevalencia": 0.03604444444444444
+  },
+  "isolation_forest_top": [
+    {
+      "% marcado como raro": 1,
+      "precision": 0.0556,
+      "recall": 0.0154,
+      "lift": 1.5413
+    },
+    {
+      "% marcado como raro": 3,
+      "precision": 0.2119,
+      "recall": 0.1763,
+      "lift": 5.8775
+    },
+    {
+      "% marcado como raro": 5,
+      "precision": 0.1956,
+      "recall": 0.2713,
+      "lift": 5.4254
+    },
+    {
+      "% marcado como raro": 10,
+      "precision": 0.1496,
+      "recall": 0.4149,
+      "lift": 4.1492
+    }
+  ]
+}
