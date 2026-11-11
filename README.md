@@ -2,7 +2,7 @@
 
 **Integrantes:** Isabel Johana Hoyos Echavarria · Jhon Eduardo Zabala Garzón · Sebastian Villa Castillo · Edwin Ramírez Gonzáles
 
-**Video:** ENLACE_AL_VIDEO
+**Video:** https://youtu.be/-nKTNd4669E
 
 ## Problema
 En una plataforma de pagos en línea, algunas transacciones son fraudulentas: alguien usa una tarjeta o una identidad que no es suya. Cada fraude que pasa cuesta dinero, pero bloquear una compra legítima también cuesta, porque molesta a un cliente real. El reto es detectar el fraude sin frenar las compras normales.
